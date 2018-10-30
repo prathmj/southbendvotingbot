@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "southbendvotingbot-executor",
+    "name": "southbendvotingbot",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "gm6e6pto3e",
+    "module": "bot"
+  }
+}
