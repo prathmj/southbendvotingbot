@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "aws-sdk": "^2.344.0",
     "claudia-bot-builder": "^4.5.0",
     "huh": "^2.0.1"
   }
